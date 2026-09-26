@@ -1,4 +1,4 @@
 setuptools>=65.0.0
 wheel
 aiogram==2.25.1
-
+aiohttp==3.9.5
